@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm William Depetri</h1>
 <h3 align="center">A shy Brazilian physicist, who went to gradschool and decided to go for the real world, working as a software QA Analyst.</h3>
 
-- 🔭 I’m currently working on **Software interface testing**
+- 🔭 I’m currently working on **Software testing**
 
-- 🌱 I’m currently learning **.NET, Tensorflow**
+- 🌱 I’m currently learning **.NET, Test Automation**
 
 - 👯 I’m looking to collaborate on **Bringing science and technology together**
 
-- 🤝 I’m looking for help with **Game Engines**
+- 🤝 I’m looking for help with **Selenium**
 
 - 👨‍💻 All of my projects are available at [http://lattes.cnpq.br/0231001502292441](http://lattes.cnpq.br/0231001502292441)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wdepetri@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/william-depetri-768b0849/](https://www.linkedin.com/william-depetri-768b0849/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/william-depetri/](https://www.linkedin.com/in/william-depetri/)
 
 - ⚡ Fun fact **I am a circus artist, a piano player, and food lover**
 
